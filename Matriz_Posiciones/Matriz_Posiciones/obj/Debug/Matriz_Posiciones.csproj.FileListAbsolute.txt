@@ -1,0 +1,8 @@
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\bin\Debug\Matriz_Posiciones.exe.config
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\bin\Debug\Matriz_Posiciones.exe
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\bin\Debug\Matriz_Posiciones.pdb
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\obj\Debug\Matriz_Posiciones.csproj.AssemblyReference.cache
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\obj\Debug\Matriz_Posiciones.csproj.SuggestedBindingRedirects.cache
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\obj\Debug\Matriz_Posiciones.csproj.CoreCompileInputs.cache
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\obj\Debug\Matriz_Posiciones.exe
+D:\l_Zero\Escritorio\UMG 5to Semetre\Programacion III\Programaas\Matriz tipo String\Matriz_Posiciones\Matriz_Posiciones\obj\Debug\Matriz_Posiciones.pdb
